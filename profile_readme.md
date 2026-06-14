@@ -5,46 +5,44 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=AVINASH+SUHAGIYA;FULL-STACK+ENGINEER;3D+WEBGL+ENTHUSIAST;RETRO-CYBERPUNK+CREATIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=AVINASH+SUHAGIYA;FULL-STACK+ENGINEER;3D+WEBGL+ENTHUSIAST;RETRO-CYBERPUNK+CREATIVE" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 SYSTEMS OVERVIEW
+### 👽 About Me
 
-```json
-{
-  "identity": {
-    "name": "Avinash Rajeshkumar Suhagiya",
-    "handle": "Kratos-avi",
-    "domain": "Full-Stack Software Engineering & Interactive Design"
-  },
-  "current_operations": {
-    "node": "Avi_Portfolio",
-    "status": "active_deployment",
-    "tech_stack": ["React 18", "Vite", "TypeScript", "Three.js", "TailwindCSS"]
-  },
-  "objectives": [
-    "Build high-performance, responsive 3D WebGL interfaces",
-    "Integrate cloud infrastructure telemetry with front-end UI",
-    "Design tactile UX with real-time feedback loop mechanics"
-  ]
-}
-```
+I am a Software Engineer and Creative Developer. I design and build highly interactive, immersive web applications, specializing in merging clean code architectures with advanced front-end aesthetics (WebGL, Three.js, and fluid animations).
 
 ---
 
-### 🛠️ CORE ARSENAL & SYSTEMS
+### 🚀 Specialties
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,threejs,tailwind,html,css,nodejs,py,aws,git,vscode,github,npm&perline=7" alt="My Skills" />
-  </a>
-</p>
+| 🎨 Interactive Frontend | 🛡️ Backend & Cloud | 👾 Systems & Tools |
+| :--- | :--- | :--- |
+| • React / Vite / TS<br>• Three.js (WebGL)<br>• Framer Motion<br>• Tailwind CSS | • Node.js APIs<br>• Python Scripting<br>• AWS Infrastructure | • Git Version Control<br>• Docker Containers<br>• CI/CD Pipelines |
 
 ---
 
-### 📊 REAL-TIME CORE DIAGNOSTICS
+### 📂 Featured Project
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🌌 <a href="https://github.com/Kratos-avi/Avi_Portfolio">Avi_Portfolio</a></h3>
+      <p>My flagship interactive developer portfolio and physics workstation. Features real-time WebGL mesh warping, telemetry HUD grids, retro games, and a full interactive terminal interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Three.js-r184-black?logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-v3-38B2AC?logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 System Diagnostics (GitHub Stats)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kratos-avi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070709&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" alt="GitHub Stats" width="48%" />
@@ -57,7 +55,7 @@
 
 ---
 
-### 📡 NETWORK NODES
+### 📡 Network Nodes (Connect)
 
 <p align="center">
   <a href="mailto:avinashsuhagiya12@gmail.com">
@@ -66,13 +64,4 @@
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Avinash_Suhagiya-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070709&color=22d3ee" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Kratos-avi/Avi_Portfolio">
-    <img src="https://img.shields.io/badge/Active_Node-Avi_Portfolio-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=070709&color=22d3ee" alt="Portfolio Repo" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub><i>Telemetry stream synced to UTC-04:00. Powered by React, Three.js, and GitHub API.</i></sub>
 </p>
