@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Quantum Grid
 
 <p align="center">
-  <img src="banner.png" alt="Avinash Suhagiya - Full-Stack Engineer & Interactive Designer" width="100%" />
+  <img src="header.svg" alt="Avinash Suhagiya - Full-Stack Engineer &amp; Interactive Designer" width="100%" />
 </p>
 
 <p align="center">

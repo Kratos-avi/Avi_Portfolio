@@ -1,0 +1,107 @@
+<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: 'Orbitron', 'Segoe UI', -apple-system, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      fill: #22d3ee;
+      letter-spacing: 4px;
+    }
+    .subtitle {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      font-weight: 500;
+      font-size: 13px;
+      fill: #94a3b8;
+      letter-spacing: 2px;
+    }
+    .telemetry {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      font-size: 9px;
+      fill: #475569;
+      letter-spacing: 1px;
+    }
+    .glow {
+      filter: drop-shadow(0px 0px 8px rgba(34, 211, 238, 0.45));
+    }
+    .grid-line {
+      stroke: #1e293b;
+      stroke-width: 0.5;
+    }
+    .accent-glow {
+      stroke: #22d3ee;
+      stroke-width: 1.5;
+      stroke-dasharray: 400;
+      stroke-dashoffset: 400;
+      animation: draw 3s ease-out forwards, pulse 4s infinite alternate 3s;
+    }
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+    @keyframes pulse {
+      0% {
+        opacity: 0.4;
+        filter: drop-shadow(0px 0px 2px rgba(34, 211, 238, 0.2));
+      }
+      100% {
+        opacity: 1;
+        filter: drop-shadow(0px 0px 10px rgba(34, 211, 238, 0.6));
+      }
+    }
+  </style>
+
+  <!-- Deep space dark background -->
+  <rect width="800" height="220" fill="#070709" rx="8"/>
+
+  <!-- Telemetry Grid -->
+  <g opacity="0.35">
+    <!-- Vertical Grid Lines -->
+    <line x1="50" y1="0" x2="50" y2="220" class="grid-line"/>
+    <line x1="150" y1="0" x2="150" y2="220" class="grid-line"/>
+    <line x1="250" y1="0" x2="250" y2="220" class="grid-line"/>
+    <line x1="350" y1="0" x2="350" y2="220" class="grid-line"/>
+    <line x1="450" y1="0" x2="450" y2="220" class="grid-line"/>
+    <line x1="550" y1="0" x2="550" y2="220" class="grid-line"/>
+    <line x1="650" y1="0" x2="650" y2="220" class="grid-line"/>
+    <line x1="750" y1="0" x2="750" y2="220" class="grid-line"/>
+    
+    <!-- Horizontal Grid Lines -->
+    <line x1="0" y1="40" x2="800" y2="40" class="grid-line"/>
+    <line x1="0" y1="90" x2="800" y2="90" class="grid-line"/>
+    <line x1="0" y1="140" x2="800" y2="140" class="grid-line"/>
+    <line x1="0" y1="190" x2="800" y2="190" class="grid-line"/>
+  </g>
+
+  <!-- Glowing Cyan Accents -->
+  <path d="M 30,30 L 770,30" class="accent-glow"/>
+  <path d="M 30,190 L 770,190" class="accent-glow"/>
+  <rect x="25" y="25" width="10" height="10" fill="#22d3ee" opacity="0.8"/>
+  <rect x="765" y="185" width="10" height="10" fill="#22d3ee" opacity="0.8"/>
+
+  <!-- Left/Right Terminal HUD Details -->
+  <text x="50" y="55" class="telemetry">LOC: [I:\AVI_PORTFOLIO]</text>
+  <text x="50" y="70" class="telemetry">SYS: ONLINE // SECTOR 0.14</text>
+  <text x="590" y="55" class="telemetry">MATRIX: ACTIVE</text>
+  <text x="590" y="70" class="telemetry">PROTOCOL: SECURE_SHELL_v2</text>
+
+  <!-- Center Text Elements -->
+  <g class="glow">
+    <text x="400" y="120" text-anchor="middle" class="title">AVINASH SUHAGIYA</text>
+  </g>
+  <text x="400" y="150" text-anchor="middle" class="subtitle">FULL-STACK ENGINEER &amp; CREATIVE DEVELOPER</text>
+
+  <!-- Small corner ticks for premium card look -->
+  <path d="M 5,20 L 5,5 L 20,5" stroke="#475569" stroke-width="1.5"/>
+  <path d="M 795,20 L 795,5 L 780,5" stroke="#475569" stroke-width="1.5"/>
+  <path d="M 5,200 L 5,215 L 20,215" stroke="#475569" stroke-width="1.5"/>
+  <path d="M 795,200 L 795,215 L 780,215" stroke="#475569" stroke-width="1.5"/>
+
+  <!-- Glowing status indicator dot -->
+  <circle cx="50" cy="170" r="3" fill="#22d3ee" />
+  <circle cx="50" cy="170" r="6" stroke="#22d3ee" stroke-width="1" opacity="0.5">
+    <animate attributeName="r" values="3;9;3" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="65" y="173" class="telemetry" fill="#22d3ee" opacity="0.8">CORE DIAGNOSTICS: STABLE</text>
+</svg>
