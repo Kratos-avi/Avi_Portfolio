@@ -1,70 +1,78 @@
-# 🌌 Welcome to My Quantum Grid | Avinash Rajeshkumar Suhagiya
+# 🌌 Welcome to the Quantum Grid
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=22d3ee&width=435&lines=DEVELOPER+%2F+CREATIVE;FULL-STACK+SOFTWARE+ENGINEER;3D+WEBGL+ENTHUSIAST" alt="Typing SVG" />
+  <img src="banner.png" alt="Avinash Suhagiya - Full-Stack Engineer & Interactive Designer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kratos-avi">
-    <img src="https://img.shields.io/github/followers/Kratos-avi?label=Followers&style=for-the-badge&color=22d3ee&logo=github" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=AVINASH+SUHAGIYA;FULL-STACK+ENGINEER;3D+WEBGL+ENTHUSIAST;RETRO-CYBERPUNK+CREATIVE" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌐 SYSTEMS OVERVIEW
+
+```json
+{
+  "identity": {
+    "name": "Avinash Rajeshkumar Suhagiya",
+    "handle": "Kratos-avi",
+    "domain": "Full-Stack Software Engineering & Interactive Design"
+  },
+  "current_operations": {
+    "node": "Avi_Portfolio",
+    "status": "active_deployment",
+    "tech_stack": ["React 18", "Vite", "TypeScript", "Three.js", "TailwindCSS"]
+  },
+  "objectives": [
+    "Build high-performance, responsive 3D WebGL interfaces",
+    "Integrate cloud infrastructure telemetry with front-end UI",
+    "Design tactile UX with real-time feedback loop mechanics"
+  ]
+}
+```
+
+---
+
+### 🛠️ CORE ARSENAL & SYSTEMS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,threejs,tailwind,html,css,nodejs,py,aws,git,vscode,github,npm&perline=7" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
-
-I am a software engineer focused on building hyper-interactive, premium, and visually stunning web environments. I specialize in merging advanced software engineering principles with modern front-end aesthetics (WebGL, Three.js, Framer Motion, Tailwind).
-
-- 🔭 Currently building: **[Avi_Portfolio](https://github.com/Kratos-avi/Avi_Portfolio)** — A retro-cyberpunk interactive portfolio workstation.
-- 🛸 Deeply interested in: Interactive 3D graphics, Cloud Engineering, and Cloud Native Architectures.
-- ⚡ Fun fact: I design custom audio and visual telemetry feedback interfaces to make web applications feel alive.
-
----
-
-## 🛠️ Technological Arsenal
-
-### Frontend & Graphics
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend, Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
----
-
-## 📊 Live System Diagnostics (GitHub Stats)
+### 📊 REAL-TIME CORE DIAGNOSTICS
 
 <p align="center">
-  <a href="https://github.com/Kratos-avi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kratos-avi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070709&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kratos-avi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratos-avi&layout=compact&theme=tokyonight&hide_border=true&bg_color=070709&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kratos-avi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070709&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratos-avi&layout=compact&theme=tokyonight&hide_border=true&bg_color=070709&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kratos-avi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kratos-avi&theme=tokyonight&hide_border=true&background=070709&ring=22d3ee&fire=ef4444&stroke=22d3ee&currStreakNum=22d3ee&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kratos-avi&theme=tokyonight&hide_border=true&background=070709&ring=22d3ee&fire=ef4444&stroke=22d3ee&currStreakNum=22d3ee&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&hide_streak_legend=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 📡 NETWORK NODES
+
+<p align="center">
+  <a href="mailto:avinashsuhagiya12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avinashsuhagiya12%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070709&color=22d3ee" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash_Suhagiya-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070709&color=22d3ee" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kratos-avi/Avi_Portfolio">
+    <img src="https://img.shields.io/badge/Active_Node-Avi_Portfolio-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=070709&color=22d3ee" alt="Portfolio Repo" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Update this link!)*
-- ✉️ **Email**: [avinashsuhagiya12@gmail.com](mailto:avinashsuhagiya12@gmail.com)
-- 🚀 **Portfolio**: [Kratos-avi.github.io/Avi_Portfolio](https://Kratos-avi.github.io/Avi_Portfolio) *(If deployed!)*
+<p align="center">
+  <sub><i>Telemetry stream synced to UTC-04:00. Powered by React, Three.js, and GitHub API.</i></sub>
+</p>
