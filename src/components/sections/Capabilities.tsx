@@ -21,7 +21,7 @@ export function Capabilities() {
             <FeatureCard
               title="Hardware & Networks."
               accent="IT Security & Repairs"
-              media={{ type: 'image', src: '/it_networks.png', label: 'IT Console' }}
+              media={{ type: 'image', src: `${import.meta.env.BASE_URL}it_networks.png`, label: 'IT Console' }}
               description="Diagnostics staging, repair of client terminals, component replacement, LAN/WAN networks, and secure enterprise firewall rules."
               items={[
                 'Replaced workstation components reducing downtime',
@@ -34,7 +34,7 @@ export function Capabilities() {
             <FeatureCard
               title="Cloud Infrastructure."
               accent="AWS & Terraform IaC"
-              media={{ type: 'image', src: '/cloud_devops.png', label: 'Cloud Blueprints' }}
+              media={{ type: 'image', src: `${import.meta.env.BASE_URL}cloud_devops.png`, label: 'Cloud Blueprints' }}
               description="Infrastructure-as-code setups utilizing Terraform scripts to manage redundant load balancers, database instances, and auto-scaling groups."
               items={[
                 'Coded server resource templates in Terraform',
@@ -47,7 +47,7 @@ export function Capabilities() {
             <FeatureCard
               title="Fullstack Products."
               accent="Web & Mobile Stacks"
-              media={{ type: 'image', src: '/fullstack_dev.png', label: 'Fullstack UI' }}
+              media={{ type: 'image', src: `${import.meta.env.BASE_URL}fullstack_dev.png`, label: 'Fullstack UI' }}
               description="Responsive frontend mobile apps, server APIs, relational MySQL schemas, local SQLite databases, and security auth tokens."
               items={[
                 'Deployed Flutter (Dart) mobile layouts',
@@ -60,7 +60,7 @@ export function Capabilities() {
             <FeatureCard
               title="Game Development."
               accent="C# & Unity Engine"
-              media={{ type: 'image', src: '/game_dev.png', label: 'Physics Console' }}
+              media={{ type: 'image', src: `${import.meta.env.BASE_URL}game_dev.png`, label: 'Physics Console' }}
               description="Custom gameplay mechanics scripting, interactive physics formulas, enemy AI paths, frame debugging, and 3D graphics rendering pipeline speedups."
               items={[
                 'Wrote modular C# game logic scripts in Unity',
@@ -76,4 +76,3 @@ export function Capabilities() {
 }
 
 export default Capabilities
-
